@@ -22,3 +22,8 @@ cascading stylr sheets embedded stylesheets,inline stylesheet,external styleshee
 javascript is an interpreter languauge
 javascript is an client side scripting language
 jaaavascript is subset of java
+
+there are two types of scripting lsnguage
+1.client side scripting lanuage
+2.server side scripting language
+
