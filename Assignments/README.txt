@@ -18,5 +18,16 @@ ed to
 css file
 cascading stylr sheets embedded stylesheets,inline stylesheet,external stylesheet
 
+<<<<<<< HEAD
 java script is introduce in 1990's by netscape navigator corporation by the name live wire
+=======
+
+javascript is an interpreter languauge
+javascript is an client side scripting language
+jaaavascript is subset of java
+
+there are two types of scripting lsnguage
+1.client side scripting lanuage
+2.server side scripting language
+>>>>>>> js-assignments
 
