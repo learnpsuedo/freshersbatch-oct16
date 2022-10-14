@@ -18,3 +18,7 @@ ed to
 css file
 cascading stylr sheets embedded stylesheets,inline stylesheet,external stylesheet
 
+
+javascript is an interpreter languauge
+javascript is an client side scripting language
+jaaavascript is subset of java
