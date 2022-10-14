@@ -8,5 +8,5 @@ ed to
 === 
 
 css file
-cascading stylr sheets
+cascading stylr sheets embedded stylesheets,inline stylesheet,external stylesheet
 
