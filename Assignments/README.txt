@@ -18,3 +18,5 @@ ed to
 css file
 cascading stylr sheets embedded stylesheets,inline stylesheet,external stylesheet
 
+java script is introduce in 1990's by netscape navigator corporation by the name live wire
+
